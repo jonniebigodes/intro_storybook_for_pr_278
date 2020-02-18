@@ -12,7 +12,7 @@ export const Default = () => <PureInboxScreen />;
 
 export const Error = () => <PureInboxScreen error="Something" />; */
 
-// updated code
+// updated code for screen section
 import React from "react";
 import { action } from "@storybook/addon-actions";
 import { Provider } from "react-redux";

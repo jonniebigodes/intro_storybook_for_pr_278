@@ -1,4 +1,4 @@
-// imitial code (get started section)
+// imitial code (simple component section)
 /* import React from 'react';
 
 export default function Task({ task: { id, title, state }, onArchiveTask, onPinTask }) {
@@ -9,7 +9,7 @@ export default function Task({ task: { id, title, state }, onArchiveTask, onPinT
   );
 } */
 
-// updated code (get started section)
+// updated code (simple component section)
 import React from "react";
 import PropTypes from "prop-types";
 export default function Task({
